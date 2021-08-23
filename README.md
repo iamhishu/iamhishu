@@ -1,7 +1,4 @@
-### Hi there, I'm Hitesh Chaudhary - aka [Frontend Developer][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fitshishu.netlify.app)](https://itshishu.netlify.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/its_hishu)
+### Hi there, I'm Hitesh Chaudhary - [Frontend Developer][website] 👋
 
 ## I'm a Developer, and Student!!
 
